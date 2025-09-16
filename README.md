@@ -9,13 +9,13 @@ The site demonstrates modern HTML5 features including semantic structure, respon
 - **assets** Is the folder with all my media e.g.Responsive product images,Product showcase videos, Customer testimonial audios and WebVTT caption files for accessibility.
 
 ## Features Demonstrated
-- Semantic HTML5 layout (<header>, <nav>, <main>, <section>, <article>, <footer>)
+- Semantic HTML5 layout(`<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<footer>`)
 - Accessibility: skip links, alt text, captions, ARIA-friendly elements
-- Responsive media with <picture>
+- Responsive media with `<picture>`
 - Video with .vtt captions
-- Audio playback with <audio>
+- Audio playback with `<audio>`
 - Tables with semantic structure
-- Microcontent tags: <mark>, <time>, <abbr>, <code>, <kbd>, <samp>
-- Interactive tags: <details>, <summary>, <dialog>, <progress>, <meter>
+- Microcontent tags:`<mark>`, `<time>` `<abbr>`, `<code>`, `<kbd>`, `<samp>`
+- Interactive tags: `<details>`, `<summary>` `<dialog>`, `<progress>`, `<meter>`, `<samp>`
 ## Live Site
 Once published with GitHub Pages, the site will be available at: https://mantandela.github.io/PrimeWigs_Site/index.html#main
